@@ -1,4 +1,6 @@
 
+https://docs.google.com/presentation/d/1gjZtGG6tiNh0QQLm17kuTARfFOsashfnpBnDrScey34/edit?usp=sharing
+
 
 https://github.com/thieu1995/mealpy
 
